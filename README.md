@@ -7,7 +7,7 @@ $ git add .
 - Lệnh ghi chú thích để đẩy lên 
 $ git commit -m "test git"
 
-
+1111
 - Lệnh tạo nhánh 
 $ git checkout -b nam-branch
 - Lệnh chuyển nhánh
