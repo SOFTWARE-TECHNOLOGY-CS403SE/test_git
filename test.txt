@@ -15,16 +15,4 @@ $ git push origin <tên nhánh>
 $ git checkout -b nam-branch
 - Lệnh chuyển nhánh
 $ git checkout <tên nhánh>
-- Lệnh kéo code về source
-$ git pull
-- Lệnh xem nhánh local
-$ git branch
-- Lệnh xem nhánh trên web
-$ git branch -r
-- Lệnh xóa nhánh dưới local
-$ git branch -D <tên nhánh>
-- Lệnh xóa nhánh trên web
-$ git push origin --delete <tên nhánh>
-- Lệnh merge khi xung đột
-$ git merge
 ```
