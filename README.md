@@ -27,4 +27,3 @@ $ git branch -D <tên nhánh>
 $ git push origin --delete <tên nhánh>
 - Lệnh merge khi xung đột
 $ git merge
-```
