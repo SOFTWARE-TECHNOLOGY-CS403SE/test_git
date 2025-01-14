@@ -13,4 +13,6 @@ $ git push origin
 $ git push origin <tên nhánh>
 - Lệnh tạo nhánh 
 $ git checkout -b nam-branch
+- Lệnh chuyển nhánh
+$ git checkout <tên nhánh>
 ```
