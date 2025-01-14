@@ -15,4 +15,5 @@ $ git push origin <tên nhánh>
 $ git checkout -b nam-branch
 - Lệnh chuyển nhánh
 $ git checkout <tên nhánh>
+$ thay doi
 ```
